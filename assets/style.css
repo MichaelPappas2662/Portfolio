@@ -390,6 +390,7 @@ header {
 .portfolio__item {
     background: var(--clr-accent);
     overflow: hidden;
+    height: 200px;
 }
 
 .portfolio__img {
